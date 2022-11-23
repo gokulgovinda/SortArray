@@ -6,7 +6,7 @@ public class Main
 {  
    public static void main(String args[])    
    {  
-      Scanner sc=new Scanner(System.in);   
+      Scanner sc=new Scanner(System.in);    
       int n;   //Declare the array size
       System.out.println("Enter the number of elements ");
       n=sc.nextInt();    //Initialize the array size
